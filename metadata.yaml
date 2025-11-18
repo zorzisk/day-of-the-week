@@ -1,7 +1,7 @@
-homepage: "https://github.com/YOUR_USERNAME/day-of-the-week"
-documentation: "https://github.com/YOUR_USERNAME/day-of-the-week/blob/main/README.md"
+homepage: "https://github.com/zorzisk/day-of-the-week"
+documentation: "https://github.com/zorzisk/day-of-the-week/blob/main/README.md"
 versions:
-  - sha: d6bf1c2
+  - sha: d6bf1c26fdc17ab2aec2160476aa65c9b95bb568
     changeNotes: Initial release.
 authors:
   - Your Name
