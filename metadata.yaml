@@ -1,0 +1,9 @@
+homepage: "https://github.com/YOUR_USERNAME/day-of-the-week"
+documentation: "https://github.com/YOUR_USERNAME/day-of-the-week/blob/main/README.md"
+versions:
+  - sha: d6bf1c2
+    changeNotes: Initial release.
+authors:
+  - Your Name
+categories:
+  - UTILITY
