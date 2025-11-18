@@ -4,6 +4,6 @@ versions:
   - sha: d6bf1c26fdc17ab2aec2160476aa65c9b95bb568
     changeNotes: Initial release.
 authors:
-  - Your Name
+  - Kostas Zorzis
 categories:
   - UTILITY
